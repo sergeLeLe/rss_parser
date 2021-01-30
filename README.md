@@ -8,7 +8,7 @@ This project was developed as a course project in the discipline of object-orien
 - filtering by keywords
 - upload to file
 
-# Requirements
+## Requirements
 
 - C++ compiler with C++17 support
 - CMake (>= 3.0)
